@@ -1,3 +1,6 @@
 # autoscraper-jupyter-template
-an autoscraper to scrape data from specific URL running inside jupyter-notebook. 
+Just a dummy personal template using autoscraper.  
+
+Note:
 Upload it in jupypter-notebook web-based GUI.
+Manually change the URL and rule_id values present inside the code. 
